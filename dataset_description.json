@@ -33,5 +33,5 @@
     "ReferencesAndLinks": [
         "https://pubmed.ncbi.nlm.nih.gov/40800374/"
     ],
-    "HowToAcknowledge": "If you use this dataset, please cite the OpenNeuro dataset and the associated data paper in your references. We also ask users to cite the related experimental manuscript https://doi.org/10.1162/imag_a_00349, where relevant, as it provides important study context, task details, acquisition information, analysis approaches, and findings based on these data.\n"
+    "HowToAcknowledge": "If you use this dataset, please cite the OpenNeuro dataset and the associated data paper in your references. We also ask users to cite the related experimental manuscript https://doi.org/10.1162/imag_a_00349, where relevant, as it provides important study context, acquisition information, analysis approaches, and findings based on these data.\n"
 }
