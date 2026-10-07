@@ -26,5 +26,6 @@
         }
     ],
     "ReferencesAndLinks": [],
-    "HowToAcknowledge": "\nIf you use this dataset, please cite the dataset and the following related publications:\n\nBiabani et al., https://doi.org/10.64898/2026.07.12.738085\n\nBiabani et al., https://doi.org/10.1162/imag_a_00349"
+    "HowToAcknowledge": "\nIf you use this dataset, please cite the dataset and the following related publications:\n\nBiabani et al., https://doi.org/10.64898/2026.07.12.738085\n\nBiabani et al., https://doi.org/10.1162/imag_a_00349",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008037.v1.0.1"
 }
