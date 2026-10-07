@@ -3,4 +3,5 @@ This dataset contains de-identified resting-state EEG recordings (rest), working
 If you use this dataset, please cite the dataset and the following related publications:
 
 Biabani et al., https://doi.org/10.64898/2026.07.12.738085
+
 Biabani et al., https://doi.org/10.1162/imag_a_00349
