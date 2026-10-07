@@ -25,5 +25,6 @@
             "Description": "MATLAB converter for TMS-EEG EEGLAB data into BIDS EEG with NIBS metadata stored in eeg/."
         }
     ],
-    "ReferencesAndLinks": []
+    "ReferencesAndLinks": [],
+    "HowToAcknowledge": "\nIf you use this dataset, please cite the dataset and the following related publications:\n\nBiabani et al., https://doi.org/10.64898/2026.07.12.738085\n\nBiabani et al., https://doi.org/10.1162/imag_a_00349"
 }
