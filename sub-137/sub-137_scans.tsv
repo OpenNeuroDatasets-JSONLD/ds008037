@@ -29,3 +29,7 @@ eeg/sub-137_task-rest_eeg.json
 eeg/sub-137_task-rest_eeg.set
 eeg/sub-137_task-rest_events.json
 eeg/sub-137_task-rest_events.tsv
+eeg/sub-137_task-tmseeg_acq-control_eeg.set
+eeg/sub-137_task-tmseeg_acq-parietal_eeg.set
+eeg/sub-137_task-tmseeg_acq-prefrontal_eeg.set
+eeg/sub-137_task-tmseeg_acq-premotor_eeg.set
